@@ -1,0 +1,7 @@
+{
+  "name": "menu-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

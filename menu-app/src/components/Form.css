@@ -1,0 +1,30 @@
+ion-input{
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.lebar{
+    width: 80%;
+    align-items: center;
+}
+
+.inputgambar{
+    /* margin: auto; */
+    margin-top: 20px;
+    /* justify-content: center; */
+    left: 10%;
+    position: absolute;
+}
+
+.simpan{
+    --background: #1a67b3;
+    --color: white;
+    margin-top: 70px;
+    left: 35%;
+    position: absolute;
+}
+.imgupdae{
+    width: 200px;
+    height: 200px;
+}

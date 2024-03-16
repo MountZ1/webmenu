@@ -1,0 +1,12 @@
+ion-spinner{
+    --color: #001d3d;
+    width: 100px;
+    height: 100px;
+}
+
+.add-button{
+    --border-color: #001d3d;
+    --color: black;
+    margin-top: 10px;
+    margin-right: 10px;
+}

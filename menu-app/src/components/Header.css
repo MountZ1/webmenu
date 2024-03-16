@@ -1,0 +1,15 @@
+ion-toolbar{
+    --background: #003566;
+    --color: white;
+
+    --border-color: #ffc300;
+    --border-width: 0 0 5px 0;
+}
+
+ion-toolbar ion-title{
+    text-align: center;
+    /* margin-left: -45px; */
+}
+/* ion-toolbar ion-back-button{
+    height: 20px;
+} */
