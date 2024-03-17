@@ -1,1 +1,1 @@
-mobile cashier ap to receive order
+mobile cashier app to receive order
